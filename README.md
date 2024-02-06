@@ -17,4 +17,4 @@
 ## Conect whith me 
 
 <div>
-<a href="https://www.linkedin.com/in/hiali-rocha-81b451239/"> <img src="(https://www.figma.com/file/gKDJ6Bdt457qNnj2vUkZVj/Social-Icons-(Community)?type=design&node-id=17-32&mode=design&t=okQhDCJ6BpuQN9J1-4)" target="_blank"></a>
+<a href="https://www.linkedin.com/in/hiali-rocha-81b451239/"> <img src="https://www.figma.com/file/gKDJ6Bdt457qNnj2vUkZVj/Social-Icons-(Community)?type=design&node-id=17-32&mode=design&t=okQhDCJ6BpuQN9J1-4" target="_blank"></a>
