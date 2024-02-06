@@ -17,6 +17,6 @@
 ## Conect whith me 
 
 <div>
-<a href="https://www.linkedin.com/in/hiali-rocha-81b451239/"> <img src="https://www.figma.com/file/gKDJ6Bdt457qNnj2vUkZVj/Social-Icons-(Community)?type=design&node-id=17-32&mode=design&t=JCS4le4uxPIWpirv-4" target="_blank"></a>
+<a href="https://www.linkedin.com/in/hiali-rocha-81b451239/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
