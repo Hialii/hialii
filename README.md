@@ -1,4 +1,4 @@
-# Hi, Welcome! 🤙
+# Welcome!
 
 
 ## Lenguage and Tools
