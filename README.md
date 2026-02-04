@@ -1,8 +1,6 @@
 # Hiali Rocha ☁️
 
 
-### 🤖 Lenguage and Tools
-
 <div>
 <img align-item='center' alt='hiali-aws' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
 <img align-item='center' alt='hiali-terraform' height='30' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg"/>
